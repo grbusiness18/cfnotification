@@ -1,0 +1,29 @@
+{
+  "name": "notificationserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "big-integer": "^1.6.17",
+    "big-number": "^0.4.0",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-cors": "0.0.3",
+    "helmet": "^3.4.0",
+    "http": "*",
+    "path": "^0.12.7",
+    "promise": "^7.1.1",
+    "socket.io": "^1.4.8",
+    "sqlite3": "^3.1.4",
+    "utf8": "^2.1.2"
+  },
+  "author": "gokulraj ramdass",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": "Notification Server"
+}
