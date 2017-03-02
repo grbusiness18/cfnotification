@@ -19,10 +19,10 @@ var base64 		= require('base-64')
 var utf8    	= require('utf8')
 var bigInt		= require('big-integer')
 var path 		= require("path")
+var moment 		= require('moment-timezone')
 var db
 var responseCode
 var responseMsg
-
 
 var dbInstance = function() {
     var oPromise = new Promise(function(resolve, reject) {
@@ -80,6 +80,21 @@ var listenPort = function(port) {
     return oPromise
 }
 
+var getEuropeanDate = function(submins){
+	try {
+		var jsDate = new Date()
+
+		if (submins > 0){
+			jsDate.setMinutes(jsDate.getMinutes() - submins)
+		}
+		var cetTimestamp = moment.tz(jsDate, 'Europe/Berlin').format()
+		var cetDate = cetTimestamp.slice(0,10).split("-").join("")
+		var cetTime = cetTimestamp.split("T")[1].split("+")[0].split(":").join("")
+		return(cetDate + cetTime)
+	} catch (e) {
+	}
+}
+
 var handlePost = function(request, response, jsonData) {
     console.log(jsonData)
     var headers = request.headers;
@@ -112,7 +127,6 @@ var handlePost = function(request, response, jsonData) {
     }
 }
 
-
 var afterPost = function(){
 	var today = new Date().toJSON().slice(0, 10).split("-").join("")
 	sSql = sqls.DelLockObjectsByTS
@@ -129,9 +143,9 @@ var validateRequest = function(request){
 	var credentials = auth(request)
 	var appkey = request.headers['appkey']
 	var userkey = request.headers['userkey']
-	console.log(appkey)
 
-	if (!credentials.name === "" || !credentials.pass === "" || !appkey === null || appkey == undefined || !userkey === "" || userkey == undefined ) {
+	if (credentials.name == "" || credentials.pass == "" || appkey == "" || appkey == undefined || userkey == "" || userkey == undefined ) {
+	//	console.log(appkey, userkey, credentials.name, credentials.pass )
 		responseMsg = 'Not Authorized / invalid parameters' 
 		return '401'
 	}
@@ -162,12 +176,17 @@ var validateRequest = function(request){
 	}
 
 	// validate app token	
-	var decry = bigInt(appkey.substr(6, appkey.length).split("yek",3)[0]).pow(config.encryptionkeys.k0.d).mod(config.encryptionkeys.k0.n).value.toString()
-	decry = decry + bigInt(appkey.substr(6, appkey.length).split("yek",3)[1]).pow(config.encryptionkeys.k1.d).mod(config.encryptionkeys.k1.n).value.toString()
-	decry = decry + bigInt(appkey.substr(6, appkey.length).split("yek",3)[2]).pow(config.encryptionkeys.k2.d).mod(config.encryptionkeys.k2.n).value.toString()
-	if (parseInt(appkey.substr(0,6)) === parseInt(decry) &&
-		parseInt(appkey.split("D")[1]) === parseInt(new Date().toJSON().slice(0, 10).split("-").join(""))){
-		responseMsg = 'Success full'
+	console.log(appkey.substr(6,appkey.length).split("D")[0].split('yek'))
+	var keys = appkey.substr(6,appkey.length).split("D")[0].split('yek')
+	var key1 = bigInt(keys[1]).pow(config.encryptionkeys.k0.d).mod(config.encryptionkeys.k0.n).value.toString()
+	var key2 = bigInt(keys[2]).pow(config.encryptionkeys.k1.d).mod(config.encryptionkeys.k1.n).value.toString()
+ 	var key3 = bigInt(keys[3]).pow(config.encryptionkeys.k2.d).mod(config.encryptionkeys.k2.n).value .toString()
+	console.log(parseInt(getEuropeanDate(30).substr(8,6) ), key1 + key2 + key3)
+	if (parseInt(appkey.substr(0,6)) === parseInt(key1 + key2 + key3) &&
+		parseInt(appkey.split("D")[1]) === parseInt(getEuropeanDate(0).substr(0,8)) &&    // Current Server Date in CET
+		parseInt(appkey.split("T")[1])	< parseInt(getEuropeanDate(0).substr(8,6))  &&   // Current Server Time in CET
+		parseInt(appkey.split("T")[1])	> (parseInt(getEuropeanDate(30).substr(8,6)))) {  // 30 mins before server time
+		responseMsg = 'Successfull'
 		return '201'
 	} else {
 		responseMsg = 'Not Authorized - app key'
@@ -191,12 +210,12 @@ app.use(bodyParser.json())
 
 
  app.get("*", function(request, response, next){
-	
 	if ( request.url === "/" ){
 		responseCode = validateRequest(request)
 		if (responseCode === '201'){
 			return next('Success')
-		} else{
+		} else {
+			responseCode = '401'
 			return next('Error')
 		}
 		
@@ -253,10 +272,12 @@ app.delete("/*", function(request, response, next){
 
 app.use(function(err, request,response, next){
 	if (err){ 
-		if (responseCode === '401'){
-			response.sendFile(path.join(__dirname+'/img/401.png'))
-		} else if (responseCode === '404') {
-			response.sendFile(path.join(__dirname+'/img/404.png'))
+		if (responseCode == '401'){
+			response.status(responseCode).sendFile(path.join(__dirname+'/img/401.png'))
+		} else if (responseCode == '404') {
+			response.status(responseCode).sendFile(path.join(__dirname+'/img/404.png'))
+		} else if (responseCode == '500'){
+			response.status(responseCode).sendFile(path.join(__dirname+'/img/401.png'))
 		} else {
 			response.status('201').jsonp('Server Up and Running..')
 		}
@@ -271,7 +292,6 @@ io.set( 'origins', '*:*' );
 io.on('connection', function(socket) {
 	//console.log(socket)
     var socketid = socket.id;
-   // var UserID = socket.handshake.query.UserID || "HARMONYCLIENT"
             io.to(socketid).emit('NewConnection', {
                 'hello': socketid,
                 'status': 'connected'
