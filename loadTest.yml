@@ -1,0 +1,28 @@
+config:
+  target: 'https://harmony.cfapps.us10.hana.ondemand.com/'
+  http:
+    timeout: 10 # Response should be sent within 10 secs ..
+  phases:
+    - duration: 60
+      arrivalRate: 1 # Users...
+  processor: "./loadConfig.js"    
+scenarios:
+  - flow:
+    - loop:
+        - post:
+            url: "https://harmony.cfapps.us10.hana.ondemand.com/Notifications"
+            json:
+              objectid: "300035541"
+              type: "Opportunity"
+              locked: ""
+              msg: "Test Opportunity Load Test"
+            headers: 
+              Authorization: "Basic eW5vbXJhaDplVzV2YlhKaGFDMHlNREUzUjFJa01UZ21NREltT0RWZg=="
+              appKey: "474278yek31yek9yek127D20170412T115511"
+              Content-Type: "application/json"
+              UserKey: "HARMONYCLIENT" 
+            beforeRequest: "setJSONBody"
+            afterRequest: "afterRequestHandlers"
+      count: 100
+    
+          

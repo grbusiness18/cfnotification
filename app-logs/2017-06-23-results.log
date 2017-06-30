@@ -1,0 +1,465 @@
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T12:57:44.254Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T12:57:44.283Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T12:57:44.286Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T12:57:44.786Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T12:57:49.027Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T12:57:49.035Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T12:57:49.036Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T12:57:49.036Z"}
+{"level":"info","message":"No.of.socket clients :0","timestamp":"2017-06-23T12:57:49.036Z"}
+{"level":"error","message":"No clients found to send message","timestamp":"2017-06-23T12:57:49.036Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T12:57:49.040Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T12:57:57.106Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T12:57:57.108Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T12:57:57.108Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T12:57:57.108Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T12:57:57.108Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T12:57:57.110Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:00:00.655Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:00:00.683Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:00:00.687Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:00:01.185Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:00:06.104Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:00:06.112Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:00:06.112Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:00:06.112Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:00:06.113Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:00:06.115Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:00:49.938Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:00:50.207Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:00:50.209Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:00:50.770Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:00:55.274Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:00:55.284Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:00:55.284Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:00:55.284Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:00:55.285Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:01:20.964Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:01:47.292Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:01:47.321Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:01:47.325Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:01:47.823Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:02:00.997Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:02:01.005Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:02:01.006Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:02:01.006Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:02:01.006Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:02:01.008Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:02:27.668Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:02:27.697Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:02:27.701Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:02:28.196Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:02:35.467Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:02:35.475Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:02:35.475Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:02:35.475Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:02:35.475Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:02:35.478Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:05:00.621Z"}
+{"id":"300035541","type":"Opportunity","locked":"","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:05:00.623Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:05:00.623Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:05:00.623Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:05:00.623Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:05:00.624Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:35:23.048Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:35:23.076Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:35:23.080Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:35:23.575Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:35:25.660Z"}
+{"level":"error","message":"401-Not Authorized - RSA Key","timestamp":"2017-06-23T13:35:25.668Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:35:25.669Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:35:25.672Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:35:37.034Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:35:37.035Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:35:37.036Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:35:37.036Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:35:37.036Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:35:37.037Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:35:57.236Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:35:57.237Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:35:57.237Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:35:57.237Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:35:57.237Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:35:57.238Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:36:52.109Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:36:52.140Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:36:52.143Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:36:52.640Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:36:57.516Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:36:57.524Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:36:57.524Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:36:57.524Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:36:57.524Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:36:57.527Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:37:35.944Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:37:35.973Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:37:35.977Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:37:36.477Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:37:44.255Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:37:44.264Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:37:44.264Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:37:44.264Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:37:44.265Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:37:44.267Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:45:52.810Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:45:52.839Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:45:52.843Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:45:53.342Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:45:55.732Z"}
+{"level":"error","message":"401-Not Authorized - RSA Key","timestamp":"2017-06-23T13:45:55.740Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:45:55.741Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:45:55.744Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:46:19.167Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:46:19.169Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:46:19.169Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:46:19.169Z"}
+{"level":"info","message":"No.of.socket clients :0","timestamp":"2017-06-23T13:46:19.169Z"}
+{"level":"error","message":"No clients found to send message","timestamp":"2017-06-23T13:46:19.169Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:46:19.170Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:46:29.917Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:46:29.918Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:46:29.918Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:46:29.918Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:46:29.918Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:46:29.919Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:46:45.093Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:46:45.094Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:46:45.094Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:46:45.094Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:46:45.094Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:46:45.095Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:50:02.566Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:50:02.600Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:50:02.603Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:50:03.099Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T13:50:09.679Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T13:50:09.687Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T13:50:09.687Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T13:50:09.687Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T13:50:09.688Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T13:50:09.690Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:54:32.409Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:54:32.436Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:54:32.440Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:54:32.941Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:55:22.051Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:55:22.079Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:55:22.082Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:55:22.582Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:55:55.903Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:55:55.932Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:55:55.935Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:55:56.435Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:56:55.692Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:56:55.963Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:56:55.965Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:56:56.517Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T13:59:13.944Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T13:59:14.213Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T13:59:14.215Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T13:59:14.764Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:03:08.930Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:03:09.197Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:03:09.199Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:03:09.747Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:06:31.220Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:06:31.482Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:06:31.484Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:06:32.040Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:09:13.616Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:09:13.866Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:09:13.867Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:09:14.419Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:10:31.137Z"}
+{"level":"error","message":"401-Not Authorized - RSA Key","timestamp":"2017-06-23T14:10:31.146Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:10:31.147Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:10:31.151Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:10:41.820Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:10:41.821Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:10:41.821Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:10:41.821Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:10:41.821Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:10:41.825Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:11:04.828Z"}
+{"id":"300035541","type":"Opportunity","locked":"","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:11:04.829Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:11:04.829Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:11:04.829Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:11:04.829Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:11:04.830Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:11:29.825Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:11:29.827Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:11:29.827Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:11:29.827Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:11:29.827Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:11:29.828Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:12:07.634Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:12:07.635Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:12:07.635Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:12:07.635Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:12:07.635Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:12:07.636Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:12:20.147Z"}
+{"id":"300035541","type":"Opportunity","locked":"","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:12:20.148Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:12:20.148Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:12:20.148Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:12:20.148Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:12:20.149Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:12:28.382Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:12:28.383Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:12:28.383Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:12:28.383Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:12:28.383Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:12:28.384Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:18:33.080Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:18:33.326Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:18:33.328Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:18:33.880Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:19:14.590Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:19:14.600Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:19:14.600Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:19:14.600Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:19:14.600Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:19:27.282Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:19:53.798Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:19:53.799Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:19:53.800Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:19:53.800Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:19:53.800Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:20:03.009Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:26:48.470Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:26:48.498Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:26:48.501Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:26:49.002Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:27:00.862Z"}
+{"level":"error","message":"401-Not Authorized - RSA Key","timestamp":"2017-06-23T14:27:00.870Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:27:00.871Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:27:00.873Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:27:14.299Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:27:14.301Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:27:14.301Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:27:14.301Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:27:14.301Z"}
+{"level":"error","message":"Lock Object Error :SelectLockObjectsbyID is not defined","timestamp":"2017-06-23T14:27:14.302Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:27:14.302Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:28:02.385Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:28:02.414Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:28:02.417Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:28:02.918Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:28:05.181Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:28:05.190Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:28:05.190Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:28:05.190Z"}
+{"level":"info","message":"No.of.socket clients :0","timestamp":"2017-06-23T14:28:05.191Z"}
+{"level":"error","message":"No clients found to send message","timestamp":"2017-06-23T14:28:05.191Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:28:05.194Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:28:09.612Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:28:09.613Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:28:09.613Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:28:09.613Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:28:09.613Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:28:09.615Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:29:02.436Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:29:02.465Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:29:02.468Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:29:02.966Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:29:05.710Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:29:05.719Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:29:05.719Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:29:05.719Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:29:05.719Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:29:05.723Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":"{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}","timestamp":"2017-06-23T14:29:05.724Z","level":"info","message":""}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:29:22.014Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:29:22.015Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:29:22.015Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:29:22.015Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:29:22.015Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:29:22.016Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":"{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}","timestamp":"2017-06-23T14:29:22.017Z","level":"info","message":""}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:30:00.633Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:30:00.899Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:30:00.901Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:30:01.460Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:30:22.146Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:30:22.154Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:30:22.154Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:30:22.154Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:30:22.154Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:30:52.998Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":"{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}","timestamp":"2017-06-23T14:30:53.003Z","level":"info","message":""}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:31:45.607Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:31:45.869Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:31:45.870Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:31:46.422Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:32:15.356Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:32:15.365Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:32:15.365Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:32:15.365Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:32:15.365Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:32:40.891Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":"{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}","timestamp":"2017-06-23T14:32:40.899Z","level":"info","message":""}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:33:55.935Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:33:56.198Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:33:56.200Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:33:56.754Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:34:22.867Z"}
+{"id":"300035541","type":"Opportunity","locked":"x","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:34:22.875Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:34:22.876Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"x\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:34:22.876Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:34:22.876Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:35:19.089Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:35:29.117Z"}
+{"id":"300035541","type":"Opportunity","locked":"","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:35:29.118Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:35:29.118Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:35:29.118Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:35:29.118Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:35:29.119Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:35:38.766Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:35:38.767Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:35:38.767Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:35:38.767Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:35:38.767Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:35:42.457Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:46:13.865Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:46:13.894Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:46:13.897Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:46:14.396Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:46:17.502Z"}
+{"level":"error","message":"401-Not Authorized - RSA Key","timestamp":"2017-06-23T14:46:17.510Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:46:17.511Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:46:17.513Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:46:35.214Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:46:35.215Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:46:35.216Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:46:35.216Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:46:35.216Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:46:35.218Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:46:43.789Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:46:43.790Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:46:43.790Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:46:43.790Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:46:43.790Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:46:43.791Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:46:54.007Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:46:54.008Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:46:54.008Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:46:54.008Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:46:54.008Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:46:54.008Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:47:00.844Z"}
+{"id":"300035541","type":"Opportunity","locked":"","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:47:00.845Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:47:00.845Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:47:00.845Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:47:00.845Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:47:00.845Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T14:47:09.824Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T14:47:09.824Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T14:47:09.825Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T14:47:09.825Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T14:47:09.825Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T14:47:09.825Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:49:05.326Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:49:05.355Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:49:05.359Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:49:05.859Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:49:36.519Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:49:36.550Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:49:36.553Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:49:37.052Z"}
+{"level":"info","message":"Rows retrieved","timestamp":"2017-06-23T14:49:40.679Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:49:52.866Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:49:52.894Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:49:52.898Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:49:53.399Z"}
+{"level":"info","message":"Rows retrieved","timestamp":"2017-06-23T14:49:56.204Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:50:30.347Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:50:30.376Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:50:30.379Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:50:30.879Z"}
+{"level":"info","message":"Rows retrieved1","timestamp":"2017-06-23T14:50:32.180Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:51:10.815Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:51:10.844Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:51:10.848Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:51:11.345Z"}
+{"level":"info","message":"DB Lock Records 0","timestamp":"2017-06-23T14:51:14.125Z"}
+{"level":"info","message":"DB Lock Records 0","timestamp":"2017-06-23T14:51:23.046Z"}
+{"level":"info","message":"DB Lock Records 0","timestamp":"2017-06-23T14:52:01.302Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:52:07.924Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:52:07.953Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:52:07.956Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:52:08.452Z"}
+{"level":"info","message":"DB Lock Records 0","timestamp":"2017-06-23T14:52:11.144Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:52:21.590Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:52:21.619Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:52:21.622Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:52:22.119Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:53:53.349Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:53:53.378Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:53:53.382Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:53:53.878Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T14:53:56.532Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:54:36.234Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:54:36.262Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:54:36.265Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:54:36.768Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T14:54:39.644Z"}
+{"level":"info","message":"Rows Got :1","timestamp":"2017-06-23T14:54:39.647Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:54:45.348Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:54:45.377Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:54:45.380Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:54:45.880Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:55:16.364Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:55:16.618Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:55:16.620Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:55:17.176Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T14:55:28.091Z"}
+{"level":"info","message":"Rows Got :1","timestamp":"2017-06-23T14:55:55.166Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T14:56:14.656Z"}
+{"level":"info","message":"Rows Got :1","timestamp":"2017-06-23T14:56:32.318Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T14:59:19.930Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T14:59:20.183Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T14:59:20.185Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T14:59:20.748Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T14:59:32.207Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T15:00:30.793Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T15:00:31.056Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T15:00:31.058Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T15:00:31.619Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T15:00:38.099Z"}
+{"level":"info","message":"Rows Got :1","timestamp":"2017-06-23T15:01:16.257Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T15:03:01.961Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T15:03:02.225Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T15:03:02.227Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T15:03:02.783Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T15:03:09.839Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T15:04:19.572Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T15:04:19.821Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T15:04:19.823Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T15:04:20.380Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T15:04:27.612Z"}
+{"level":"info","message":"Rows Got :1","timestamp":"2017-06-23T15:05:13.557Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T15:06:36.544Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T15:06:36.787Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T15:06:36.789Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T15:06:37.345Z"}
+{"level":"info","message":"Test ge all","timestamp":"2017-06-23T15:06:49.507Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-23T15:08:42.712Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-23T15:08:42.742Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-23T15:08:42.746Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-23T15:08:43.242Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T15:09:07.559Z"}
+{"level":"error","message":"401-Not Authorized - RSA Key","timestamp":"2017-06-23T15:09:07.568Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T15:09:07.568Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T15:09:07.570Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T15:09:21.556Z"}
+{"id":"300035541","type":"Opportunity","locked":"X","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T15:09:21.557Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T15:09:21.557Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"X\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T15:09:21.557Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T15:09:21.557Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T15:09:21.559Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-23T15:09:29.540Z"}
+{"id":"300035541","type":"Opportunity","locked":"","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-23T15:09:29.541Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-23T15:09:29.541Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-23T15:09:29.541Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-23T15:09:29.541Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-23T15:09:29.542Z"}

@@ -1,0 +1,8 @@
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-29T15:10:34.063Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-29T15:10:34.108Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-29T15:10:34.117Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-29T15:10:34.604Z"}
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-29T15:55:15.792Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-29T15:55:15.848Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-29T15:55:15.858Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-29T15:55:16.345Z"}

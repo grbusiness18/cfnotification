@@ -1,0 +1,10 @@
+{"level":"info","message":"App Server - Started","timestamp":"2017-06-30T08:37:45.218Z"}
+{"level":"info","message":"DB Instance created Successfully","timestamp":"2017-06-30T08:37:45.264Z"}
+{"level":"info","message":"DB Table created - Successfully","timestamp":"2017-06-30T08:37:45.271Z"}
+{"level":"info","message":"Server listening in Port #3000","timestamp":"2017-06-30T08:37:45.758Z"}
+{"level":"info","message":"*------------------------ POST -----------------------------*","timestamp":"2017-06-30T08:38:48.530Z"}
+{"id":"300035541","type":"Opportunity","locked":"","data":{"userid":"D058802","username":"Gokulraj Ramdass","timestamp":""},"level":"info","message":"","timestamp":"2017-06-30T08:38:48.539Z"}
+{"level":"info","message":"Namespace : LOCKOBJECTS","timestamp":"2017-06-30T08:38:48.539Z"}
+{"level":"info","message":"Message :{\"id\":\"300035541\",\"type\":\"Opportunity\",\"locked\":\"\",\"data\":{\"userid\":\"D058802\",\"username\":\"Gokulraj Ramdass\",\"timestamp\":\"\"}}","timestamp":"2017-06-30T08:38:48.539Z"}
+{"level":"info","message":"No.of.socket clients :1","timestamp":"2017-06-30T08:38:48.539Z"}
+{"level":"info","message":"*------------------------ End Of POST -----------------------------*","timestamp":"2017-06-30T08:38:48.543Z"}
